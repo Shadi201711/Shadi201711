@@ -28,7 +28,7 @@
 
 <br/>
 <div align="center" style="margin-top: 20px;">
-<a href="https://drive.google.com/file/d/1UnGuSk7Qfk3lGP34LkabqkNmExeRUvgp/view?usp=drive_link" target="_blank">
+<a href="https://drive.google.com/file/d/1bC4ptcpffkxlHE7CAPcx6Q2fyqDO9Cfo/view?usp=drive_link" target="_blank">
 <img src=https://img.shields.io/badge/Download-CV-red alt=MyCv style="margin-bottom: 5px;width: 140px;height:35px;" />
 </a>
 </div>
